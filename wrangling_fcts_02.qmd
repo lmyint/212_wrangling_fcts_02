@@ -68,7 +68,7 @@ Complete all parts of the Exercises section below to earn a Pass for this challe
 - **Notes:**
     - Use regular expressions with the `str_extract()` function in the `stringr` package to write this function.
 
-```{r get_dupes_test}
+```{r course_names_to_df}
 # Write your function here
 
 
